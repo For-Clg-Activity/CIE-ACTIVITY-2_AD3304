@@ -2,7 +2,7 @@
 
 Course: Regression and Classification Algorithms, T.Y. B.Tech AI \& DS, Sem V, 2026–27
 Author: Ayush Rajgure | Roll No.: AD3304 | AI \& DS, Div C
-https://www.google.com/url?q=https://github.com/complexiota&sa=D&source=editors&ust=1795584112834013&usg=AOvVaw29Yzk18TvleSYmCQZy3yQe
+https://github.com/complexiota
 
 ## What this activity does
 
